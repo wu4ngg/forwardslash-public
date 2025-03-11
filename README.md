@@ -4,7 +4,8 @@
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)\
+[![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d/project/cd86bd61-0b6a-4372-b6f8-ae9ceba11c87.svg)](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d/project/cd86bd61-0b6a-4372-b6f8-ae9ceba11c87)
 
 ![fw_logo](https://github.com/user-attachments/assets/a15ff005-060e-4902-a99d-e1e2632d3d20)
 
