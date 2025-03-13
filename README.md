@@ -9,18 +9,39 @@
 
 ![fw_logo](https://github.com/user-attachments/assets/a15ff005-060e-4902-a99d-e1e2632d3d20)
 
-Just a lame portfolio nothing special really (real)
+Just a lame ass portfolio that I coded in a Saturday.
 
 Made in Next.js with ❤️
 
+## Features
+Nothing much. Just some portfolio-y features like a home page, projects page to show off my projects and a public journal that people can post on (hope no one vandalises it).
 
+## Requirements
+- A computer
+- An operating system
+- Node.js
+
+## Setup
+1. Install dependencies
+```bash
+npm install
+# or
+yarn install
+# or
+bun install
+```
+2. Run in dev mode
 ```bash
 npm run dev
 # or
 yarn dev
 # or
-pnpm dev
-# or
 bun dev
 ```
-
+3. Build for production
+```bash
+npm run build
+# or
+yarn build
+# or
+bun build
